@@ -1,3 +1,7 @@
 [submodule "chess"]
 	path = chess
 	url = https://github.com/edwardwawrzynek/chess.git
+
+[submodule "tree_handler"]
+	path = tree_handler
+	url = https://github.com/Graham-Dobbie/tree_handler.git
